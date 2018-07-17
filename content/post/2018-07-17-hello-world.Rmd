@@ -1,0 +1,15 @@
+---
+title: hello world
+author: wwz
+date: '2018-07-17'
+slug: hello-world
+categories:
+  - R
+tags:
+  - regression
+  - plot
+---
+```{r}
+plot(x=1:7,y=2:8)
+```
+

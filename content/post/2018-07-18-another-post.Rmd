@@ -1,0 +1,11 @@
+---
+title: another post
+author: wwz
+date: '2018-07-18'
+slug: another-post
+categories:
+  - R
+tags:
+  - R Markdown
+  - plot
+---
